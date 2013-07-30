@@ -1,0 +1,9 @@
+{
+    "name": "prevent-sleep", 
+    "license": "Public Domain", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "Prevent Sleep", 
+    "id": "jid1-mYhKLaiWMy19Iw", 
+    "description": "Prevents computer from sleeping when download is occuring"
+}
